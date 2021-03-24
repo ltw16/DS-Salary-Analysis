@@ -1,4 +1,4 @@
-,Company Name,Founded,Industry,Job Description,Job Title,Location,Rating,Revenue,Salary Estimate,Sector,Size,Type of ownership,Hourly,Employer Provided,Min Salary,Max Salary,Average Salary,Country,Company Age,Python,SQL,AWS,Spark,Excel
+,Company Name,Founded,Industry,Job Description,Job Title,Location,Rating,Revenue,Salary Estimate,Sector,Size,Type of ownership,Hourly,Employer Provided,Min Salary,Max Salary,Average Salary,Country,Company Age,Python,SQL,AWS,Spark,Excel,Job Simplified,Seniority,Description Length
 0,CGI,1976,Consulting,"Job Description Senior Data Scientist
 
 Position Description
@@ -51,7 +51,7 @@ CGI is an equal opportunity employer.
 
 
 783983
-Show More",Senior Data Scientist,"Reading, England",3.7,$10+ billion (USD),£50K - £65K (Glassdoor Est.),Business Service,10000+ Employees,Company - Public,0,0,50,65,57.5, England,45,0,0,0,0,0
+Show More",Senior Data Scientist,"Reading, England",3.7,$10+ billion (USD),£50K - £65K (Glassdoor Est.),Business Service,10000+ Employees,Company - Public,0,0,50,65,57.5, England,45,0,0,0,0,0,data scientist,senior,1612
 1,Sage,1981,Computer Hardware & Software,"Advert
 People make Sage great. From our colleagues delivering ground-breaking solutions to the customers who use them: people have helped us grow for more than thirty years, and people are driving our future as a great SaaS company. We’re writing our next chapter. Be part of it!
 
@@ -100,18 +100,18 @@ Follow us on our social media sites below to join in conversations about career 
 
 
 
-Show More",Senior Data Scientist,"London, England",4.3,$1 to $2 billion (USD),£51K - £61K (Glassdoor Est.),Information Technology,10000+ Employees,Company - Public,0,0,51,61,56.0, England,40,0,0,0,0,0
+Show More",Senior Data Scientist,"London, England",4.3,$1 to $2 billion (USD),£51K - £61K (Glassdoor Est.),Information Technology,10000+ Employees,Company - Public,0,0,51,61,56.0, England,40,0,0,0,0,0,data scientist,na,1284
 3,Yara,1905,Chemical Manufacturing,"About the Unit
 Yara delivers solutions for sustainable agriculture and the environment. Our fertilizers and crop nutrition programs help produce the food required for the growing world population. Our industrial products and solutions reduce emissions, improve air quality and support safe and efficient operations. Founded in Norway in 1905, Yara has a worldwide presence with sales to 150 countries. Safety is always our top priority.
 Yara Farming Solutions has ambitious growth objectives for the High Value Products (HVP) globally. The R&D team has the responsibility to support the markets with global trials and analyse the data for agronomic recommendations.
 As a global organization we actively strive to reflect the diversity in society. We therefore encourage qualified applicants from all backgrounds to apply. We are committed to creating a work environment that fits gender equality.
-Show More",Research Scientist,"Leeds, England",4.1,$10+ billion (USD),£25K - £35K (Glassdoor Est.),Manufacturing,10000+ Employees,Company - Public,0,0,25,35,30.0, England,116,0,0,0,0,0
+Show More",Research Scientist,"Leeds, England",4.1,$10+ billion (USD),£25K - £35K (Glassdoor Est.),Manufacturing,10000+ Employees,Company - Public,0,0,25,35,30.0, England,116,0,0,0,0,0,na,na,906
 4,PsiOxus Therapeutics Ltd,-1,-1,"PsiOxus Therapeutics Ltd is an award-winning UK/US development stage biotechnology company developing novel therapeutics for the treatment of cancer, with a focus on immunotherapeutic approaches. We have a first- generation oncolytic virus and three transgene-expressing T-SIGn cancer gene therapy candidates in Phase I/II clinical development and are further developing our innovative platform technology and candidate pipeline.
 We have an exciting new opportunity for an experienced Senior Scientist to join our Translational Medicine team. In this position you will manage a number of external CROs generating translational data, as well as supporting in-house clinical assay development/validation and sample analysis.
 Key areas of responsibility will include, but are not limited to:
 = Managing relationships with external vendors carrying out patient sample analysis, including immunohistochemistry.
 
-Show More",Senior Research Scientist,"Abingdon, England",-1.0,-1,£42K - £65K (Glassdoor Est.),-1,-1,-1,0,0,42,65,53.5, England,-1,0,0,0,0,0
+Show More",Senior Research Scientist,"Abingdon, England",-1.0,-1,£42K - £65K (Glassdoor Est.),-1,-1,-1,0,0,42,65,53.5, England,-1,0,0,0,0,0,na,senior,916
 5,FutureLearn Ltd,2012,Education Training Service,"We are currently looking to recruit an experienced Data Scientist into the Data Science team. The Data Science team sits in the Data & Analytics department and works alongside the Business Insights Analysts and Data and Frontend Engineers.
 
 Our Data Scientists work on a diverse range of projects to solve key business problems, enable data-driven decision making and optimise and automate processes. In practice, this means exploiting data of heterogeneous nature (e.g., financial, web logs, marketing, behavioural, course content) to: i) scope, develop, productionise, deploy, monitor and improve scalable and automated data-science products, eventually living in a cloud environment; ii) produce self-contained statistical models and ad-hoc analyses; iii) set up and carry out experiments.
@@ -152,7 +152,7 @@ No recruitment agents please.
 
 
 Apply for this job
-Show More",Data Scientist,"London, England",3.4,Unknown / Non-Applicable,£34K - £40K (Glassdoor Est.),Education,51 to 200 Employees,Company - Private,0,0,34,40,37.0, England,9,1,0,1,1,0
+Show More",Data Scientist,"London, England",3.4,Unknown / Non-Applicable,£34K - £40K (Glassdoor Est.),Education,51 to 200 Employees,Company - Private,0,0,34,40,37.0, England,9,1,0,1,1,0,data scientist,senior,3489
 7,Funding Circle UK,2010,Lending,"About Us
 We want to help small businesses win. That’s why we’re here.
 We connect small business owners to investors – to create jobs, help families and power economies – because we believe that people are made to do more. And we want to help them.
@@ -170,17 +170,17 @@ Be part of the team that changes everything. Let’s build the place where small
 
 
 
-Show More",Data Scientist,"London, England",3.9,$50 to $100 million (USD),£51K - £66K (Glassdoor Est.),Finance,501 to 1000 Employees,Company - Private,0,0,51,66,58.5, England,11,0,0,0,0,0
+Show More",Data Scientist,"London, England",3.9,$50 to $100 million (USD),£51K - £66K (Glassdoor Est.),Finance,501 to 1000 Employees,Company - Private,0,0,51,66,58.5, England,11,0,0,0,0,0,data scientist,senior,728
 8,Conrad Energy,-1,-1,"Quantitative Analyst/Data Scientist
 The quantitative analyst role offers the successful candidate the opportunity to join a fast expanding team that supports delivery of Conrad Energy’s own and third-party assets to market.
 The successful candidate will have the opportunity to assist in developing new trading strategies within the portfolio for both simple and complex asset optimisations. You will be involved in supporting the trading function in making better decisions through agnostic data-driven analytics and forecasting.
 You will have a proven record in forecasting using machine learning, data science techniques and / or neural networks and an understanding of generic market dynamics. Specific energy experience is not a prerequisite to this role although would be an advantage.
 Reporting to the Head of Trading, you will be a leader in delivering best practice modelling across the business, and an expert programmer with a strongly analytical background. Knowledge of the latest forecasting techniques in data science is critical. You will be expected to lead on multiple projects looking at market evolution. These reflect changes in the forward and prompt prices, consumer behaviour and network operator charging methodologies.
-Show More",Quantitative Analyst,"Abingdon, England",-1.0,-1,£38K - £72K (Glassdoor Est.),-1,-1,-1,0,0,38,72,55.0, England,-1,0,0,0,0,0
+Show More",Quantitative Analyst,"Abingdon, England",-1.0,-1,£38K - £72K (Glassdoor Est.),-1,-1,-1,0,0,38,72,55.0, England,-1,0,0,0,0,0,analyst,senior,1254
 9,QVC,1986,"Department, Clothing, & Shoe Shops","QVC is so much more than a retailer. It’s a broadcast network. It’s an ecommerce leader. And it’s a great place to work! Come discover why QVC is like no other business in the world. Be part of a team that’s reimagining shopping, entertainment and social as one.
 Job Description Details
 QVC are looking at building a strong advanced analytics team across our international markets and one of these Key roles is The Data Engineer.
 Your main responsibilities:
 Creating data models, data pipelines, providing the right format and structure for the use case solutions
 Perform data cleansing and feature engineering
-Show More",Data Engineer,"London, England",3.5,$5 to $10 billion (USD),£43K - £58K (Glassdoor Est.),Retail,10000+ Employees,Subsidiary or Business Segment,0,0,43,58,50.5, England,35,0,0,0,0,0
+Show More",Data Engineer,"London, England",3.5,$5 to $10 billion (USD),£43K - £58K (Glassdoor Est.),Retail,10000+ Employees,Subsidiary or Business Segment,0,0,43,58,50.5, England,35,0,0,0,0,0,data engineer,senior,620
